@@ -1,2 +1,1 @@
-# N8n
-Giving a go on AI agents
+This is repo on basic projects
